@@ -1,3 +1,2 @@
 **SCRIPT ARCHIVE PLEASE USE NEW VERSION**
-}
-**NEW VERSION : [TOGE-MD](https://github.com/toge012345/TOGE-MD)**
+**: [TOGE-MD](https://github.com/toge012345/TOGE-MD)**
